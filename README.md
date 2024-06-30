@@ -6,6 +6,10 @@
 - 🤔 I am currently seeking a final-year internship in software engineering and AI.
 - 📫 How to reach me: <a href="mailto:ki_boudjadi@esi.dz">ki_boudjadi@esi.dz</a>
 
+### 🌐 Socials :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imene-boudjadi-34893120b/)
+
 
 <!--
 - 🔭 I’m currently working on ...
