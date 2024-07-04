@@ -2,8 +2,6 @@
 
 - 👩🏻‍💻 I'm a computer science student at ESI Algiers.
 - 💻 Passionate about software engineering, development, and artificial intelligence.
-- 📚 I love reading and 🐎 horse riding.
-- 🤔 I am currently seeking a final-year internship in software engineering and AI.
 - 📫 How to reach me: <a href="mailto:ki_boudjadi@esi.dz">ki_boudjadi@esi.dz</a>
 
 ## 🌐 Socials :
